@@ -1,5 +1,5 @@
 Hi, this is a basic backend code that helped me to learn Express.js and mongoDB, tested using ThunderClient.
-Thriught this code, we can register as a user and can create,update delete and get contacts seamlessly thorugh our Database.
+Throught this code, we can register as a user and can create,update delete and get contacts seamlessly thorugh our Database.
 
 There is simply a server.js with middlewares like errorHandler, routing middleware to navigate to our respetive routes, and mongoDB setup middleware.
 Then, there are two routes attached, contactRoutes.js and uerRoutes.js, the userRoute.js has navigation to three main routes of our project, namely register, login and current, with different purposes.
